@@ -51,7 +51,7 @@
             </div>
             <div class="col-md-5">
                 <h3>Belemnites</h3>
-                <h4><span class="glyphicon glyphicon-time" aria-hidden="true"></span> Last updated 2017-05-09</h4>
+                <h4><span class="glyphicon glyphicon-time" aria-hidden="true"></span> Last updated 2017-05-10</h4>
                 <p>Belemnites are squid-like, bullet-shaped organisms of the extinct order Belemnitida, part of the Cephalopod class. </p>
                 <a class="btn btn-primary" href="http://belemnites.darinmao.tk">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
