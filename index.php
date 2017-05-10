@@ -35,8 +35,8 @@
             </div>
             <div class="col-md-5">
                 <h3>SMS Spammer</h3>
-                <h4><span class="glyphicon glyphicon-time" aria-hidden="true"></span> Last updated 2017=05-09</h4>
-                <p>Send a text message....or 30.......</p>
+                <h4><span class="glyphicon glyphicon-time" aria-hidden="true"></span> Last updated 2017-05-09</h4>
+                <p>Send a text message....or 50.......</p>
                 <a class="btn btn-primary" href="http://sms.darinmao.tk">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
         </div>
@@ -46,12 +46,12 @@
         <div class="row">
             <div class="col-md-7">
                 <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/700x300" alt="">
+                    <img class="img-responsive" src="/images/belemnites.png" alt="">
                 </a>
             </div>
             <div class="col-md-5">
                 <h3>Belemnites</h3>
-                <h4><span class="glyphicon glyphicon-time" aria-hidden="true"></span> Last updated 2017=05-09</h4>
+                <h4><span class="glyphicon glyphicon-time" aria-hidden="true"></span> Last updated 2017-05-09</h4>
                 <p>Belemnites are squid-like, bullet-shaped organisms of the extinct order Belemnitida, part of the Cephalopod class. </p>
                 <a class="btn btn-primary" href="http://belemnites.darinmao.tk">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
