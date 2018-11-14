@@ -1,71 +1,119 @@
 <!doctype html>
 <html lang="en">
- <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Darin Mao</title>
-  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link href="/css/1-col-portfolio.css" rel="stylesheet">
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
- </head>
- <body>
-	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <span class="navbar-brand">Darin Mao</span>
-            </div>
-        </div>
-    </nav>
-	<div class="container">
+	<head>
+		<meta charset="utf-8">
+		<title>DarinMao</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<link rel="icon" type="image/png" href="img/icon.png" />
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/style-responsive.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+	</head>
 
-        <div class="row">
-            <div class="col-lg-12">
-                <h1 class="page-header">Darin Mao
-                    <small>Check out my things</small>
-                </h1>
-            </div>
-        </div>
+	<body>
+		<div class="preloader" id="preloader">
+			<div class="item">
+				<div class="spinner">
+				</div>
+			</div>
+		</div>
 
-        <div class="row">
-            <div class="col-md-7">
-                <a href="#">
-                    <img class="img-responsive" src="/images/smsspammer.png" alt="SMS Spammer">
-                </a>
-            </div>
-            <div class="col-md-5">
-                <h3>SMS Spammer</h3>
-                <h4><span class="glyphicon glyphicon-time" aria-hidden="true"></span> Last updated 2017-05-09</h4>
-                <p>Send a text message....or 50.......</p>
-                <a class="btn btn-primary" href="http://sms.darinmao.tk">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
-            </div>
-        </div>
+		<header id="fullscreen">
+			<div class="logo" id="full"><a href="index.html">DarinMao</a></div>
+		</header>
+		
+		<div class="content">
+			<div class="text-intro" id="site-type">
+				<h1>Just some</h1>
+				<h1 class="typewrite"><span>developer</span></h1>
+				<p>these are pretty cool i guess. <a href="https://github.com/DarinMao">check me out on github</a></p>
+			</div>
+			<ul class="portfolio-grid">
+				<li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
+				  <img src="img/sisapi.png">
+					<a href="#">  
+					  <div class="grid-hover">
+						<h1>SIS API</h1>
+						<p>A Java StudentVUE API</p>
+					  </div>
+					</a>      
+				</li> 
+				
+				<li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
+				  <img src="img/manpage.png">
+					<a href="https://manpagebot.tk">  
+					  <div class="grid-hover">
+						<h1>ManPage Bot</h1>
+						<p>A Discord man page bot</p>
+					  </div>
+					</a>      
+				</li>    
 
-        <hr>
+				<li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
+				  <img src="img/schedule.png">
+					<a href="/schedule-bot">  
+					  <div class="grid-hover">
+						<h1>Schedule Bot</h1>
+						<p>A Discord TJ schedule bot</p>
+					  </div>
+					</a>      
+				</li>
 
-        <div class="row">
-            <div class="col-md-7">
-                <a href="#">
-                    <img class="img-responsive" src="/images/belemnites.png" alt="">
-                </a>
-            </div>
-            <div class="col-md-5">
-                <h3>Belemnites</h3>
-                <h4><span class="glyphicon glyphicon-time" aria-hidden="true"></span> Last updated 2017-05-10</h4>
-                <p>Belemnites are squid-like, bullet-shaped organisms of the extinct order Belemnitida, part of the Cephalopod class. </p>
-                <a class="btn btn-primary" href="http://belemnites.darinmao.tk">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
-            </div>
-        </div>
+				<li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
+				  <img src="img/belemnites.jpg">
+					<a href="/belemnites">  
+					  <div class="grid-hover">
+						<h1>Belemnites</h1>
+						<p>An extinct, squid-like organism</p>
+					  </div>
+					</a>  
+				</li>
 
-        <hr>
+				<li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
+				  <img src="img/science.png">
+					<a href="/science">  
+					  <div class="grid-hover">
+						<h1>Science POL</h1>
+						<p>Grade 7 End of Year Presentation</p>
+					  </div>
+					</a>      
+				</li>    
+				
+				<li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
+				  <img src="img/alcohol.jpg">
+					<a href="/alcohol">  
+					  <div class="grid-hover">
+						<h1>Alcohol</h1>
+						<p>Impacts and consequences</p>
+					  </div>
+					</a>      
+				</li> 
+			</ul>
+		</div>
 
-        <footer>
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Be nice. Don't copy my stuff. It's mine, not yours.</p>
-                </div>
-            </div>
-        </footer>
-    </div>
- </body>
+		<footer>
+			<div class="footer-margin">
+				<div class="social-footer">
+					<a href="https://www.facebook.com/darin.mao.7169"><i class="fab fa-facebook"></i></a>
+					<a href="https://www.instagram.com/darinmao"><i class="fab fa-instagram"></i></a>
+					<a href="https://github.com/DarinMao"><i class="fab fa-github"></i></a>
+				</div>     
+				<div class="copyright"><a href="http://thomsoon.com/project/thomsoon-theme">Made with the Thomsoon theme</a></div>
+			</div>
+		</footer>
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.easing.min.js"></script>
+		<script src="js/modernizr.custom.42534.js" type="text/javascript"></script>
+		<script src="js/jquery.waitforimages.js" type="text/javascript"></script>
+		<script src="js/typed.js" type="text/javascript"></script>
+		<script src="js/masonry.pkgd.min.js" type="text/javascript"></script>  
+		<script src="js/imagesloaded.pkgd.min.js" type="text/javascript"></script>    
+		<script src="js/jquery.jkit.1.2.16.min.js"></script>
+
+		<script src="js/script.js" type="text/javascript"></script>
+	</body>
 </html>
