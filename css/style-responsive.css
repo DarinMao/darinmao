@@ -1,18 +1,18 @@
 @media all and (max-width: 1330px) and (min-width: 1180px) {
 	.content .text-intro{
-		width:1000px;
+		width: 1000px;
 	}
 
 	.footer-margin{
-		width:1000px;
+		width: 1000px;
 	}
 
 	.content .text-intro h1, .content .text-intro p{
-		width:60%;
+		width: 60%;
 	}
 
 	#full{
-		width:1000px;
+		width: 1000px;
 	}
 
 	/*
@@ -22,25 +22,25 @@
 	*/
 
 	.portfolio-grid{
-		width:1030px;
+		width: 1030px;
 	}
 
 	.grid-hover, li.grid-item, li.grid-item img{
-		width:312px;
+		width: 312px;
 	}
 }
 
 @media all and (max-width: 1179px) and (min-width: 1024px) {
 	.content .text-intro{
-		width:800px;
+		width: 800px;
 	}
 
 	.footer-margin{
-		width:800px;
+		width: 800px;
 	}
 
 	.content .text-intro h1, .content .text-intro p{
-		width:60%;
+		width: 60%;
 	}
 	
 	#full {
@@ -54,25 +54,25 @@
 	*/
 
 	.portfolio-grid{
-		width:830px;
+		width: 830px;
 	}
 
 	.grid-hover, li.grid-item, li.grid-item img{
-		width:246px;
+		width: 246px;
 	}
 }
 
 @media all and (max-width: 1023px) and (min-width: 769px) {
 	.content .text-intro{
-		width:600px;
+		width: 600px;
 	}
 
 	.footer-margin{
-		width:600px;
+		width: 600px;
 	}
 
 	.content .text-intro h1, .content .text-intro p{
-		width:100%;
+		width: 100%;
 	}
 
 	#full {
@@ -86,11 +86,11 @@
 	*/
 
 	.portfolio-grid{
-		width:630px;
+		width: 630px;
 	}
 
 	.grid-hover, li.grid-item, li.grid-item img{
-		width:282px;
+		width: 282px;
 	}
 }
 
@@ -98,19 +98,19 @@
 
 @media all and (max-width: 768px) and (min-width: 481px) {
 	.content .text-intro{
-		width:400px;
+		width: 400px;
 	}
 
 	.footer-margin{
-		width:400px;
+		width: 400px;
 	}
 
 	.content .text-intro h1, .content .text-intro p{
-		width:100% !important;
+		width: 100% !important;
 	}
 
 	.one-column, .two-column{
-		width:100%;
+		width: 100%;
 	}
 
 	.logo, .menu-index{
@@ -128,38 +128,38 @@
 	*/
 
 	.portfolio-grid{
-		width:430px;
+		width: 430px;
 	}
 
 	.grid-hover, li.grid-item, li.grid-item img{
-		width:400px;
+		width: 400px;
 	}
 }
 
 @media all and (max-width: 480px) and (min-width: 320px) {
 	.content .text-intro{
-		width:280px;
+		width: 280px;
 	}
 
 	.footer-margin{
-		width:280px;
+		width: 280px;
 	}
 
 	.footer-margin .copyright{
-		line-height:40px;
+		line-height: 40px;
 	}
 
 	.content .text-intro h1, .content .text-intro p{
-		width:100% !important;
+		width: 100% !important;
 	}
 
 	.one-column, .two-column{
-		width:100%;
+		width: 100%;
 	}
 
 	.content .text-intro h1{
-		font-size:33px; 
-		line-height:50px;
+		font-size: 33px; 
+		line-height: 50px;
 	}
 
 	#full {
@@ -174,10 +174,10 @@
 	*/
 
 	.portfolio-grid{
-		width:310px;
+		width: 310px;
 	}
 
 	.grid-hover, li.grid-item, li.grid-item img{
-		width:280px;
+		width: 280px;
 	}
 }
