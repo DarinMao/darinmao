@@ -107,16 +107,34 @@ HEADER
 */
 
 header a {
-	color:#000000;
+	color: #000000;
 }
 
 header .logo > a {
-	font-size:23px;
-	font-weight:800;
-	float:left;
-	line-height:80px;
-	padding-right:40px;
+	font-size: 23px;
+	font-weight: 800;
+	float: left;
+	line-height: 80px;
+	padding-right: 40px;
 	border-bottom: 1px solid #f1f1f1;
+}
+
+#full{
+	width:1140px;
+	position: relative;
+	top:0;
+	margin:0 auto;
+	z-index: 9997;
+}
+
+#fullscreen{
+	display:none;
+	position:absolute;
+	top:0;
+	width:100%;
+	margin:0 auto;
+	height:80px;
+	z-index: 9998;
 }
 
 header .logo > a:hover {

@@ -42,7 +42,10 @@
 	.content .text-intro h1, .content .text-intro p{
 		width:60%;
 	}
-
+	
+	#full {
+		width: 800px;
+	}
 
 	/*
 	**************************
@@ -70,6 +73,10 @@
 
 	.content .text-intro h1, .content .text-intro p{
 		width:100%;
+	}
+
+	#full {
+		width: 800px;
 	}
 
 	/*
@@ -107,7 +114,11 @@
 	}
 
 	.logo, .menu-index{
-		display:block;
+		display: block;
+	}
+
+	#full {
+		width: 400px;
 	}
 
 	/*
@@ -149,6 +160,11 @@
 	.content .text-intro h1{
 		font-size:33px; 
 		line-height:50px;
+	}
+
+	#full {
+		width: 280px;
+		display: block !important;
 	}
 
 	/*
