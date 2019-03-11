@@ -124,7 +124,7 @@ $(document).ready(function(){
 	setTimeout( function(){
 		if($("#site-type").length) {
         $(".typewrite span").typed({
-            strings: ["developer ", "fun projects ", "random guy "],
+            strings: ["random guy ", "developer ", "fun projects "],
             typeSpeed: 100,
             backDelay: 500,
             loop: false,
